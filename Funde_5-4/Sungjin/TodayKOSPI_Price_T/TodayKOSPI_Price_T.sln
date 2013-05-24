@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodayKOSPI_Price_T", "TodayKOSPI_Price_T\TodayKOSPI_Price_T.csproj", "{1B332D2D-9E40-4FB1-B030-138C1F994DDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodayKOSPI_Price_T", "TodayKOSPI_Price_T\TodayKOSPI_Price_T.csproj", "{7CA3B75E-2E44-4FD6-A1D3-1A71F62C31E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1B332D2D-9E40-4FB1-B030-138C1F994DDC}.Debug|x86.ActiveCfg = Debug|x86
-		{1B332D2D-9E40-4FB1-B030-138C1F994DDC}.Debug|x86.Build.0 = Debug|x86
-		{1B332D2D-9E40-4FB1-B030-138C1F994DDC}.Release|x86.ActiveCfg = Release|x86
-		{1B332D2D-9E40-4FB1-B030-138C1F994DDC}.Release|x86.Build.0 = Release|x86
+		{7CA3B75E-2E44-4FD6-A1D3-1A71F62C31E8}.Debug|x86.ActiveCfg = Debug|x86
+		{7CA3B75E-2E44-4FD6-A1D3-1A71F62C31E8}.Debug|x86.Build.0 = Debug|x86
+		{7CA3B75E-2E44-4FD6-A1D3-1A71F62C31E8}.Release|x86.ActiveCfg = Release|x86
+		{7CA3B75E-2E44-4FD6-A1D3-1A71F62C31E8}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
