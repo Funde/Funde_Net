@@ -1,0 +1,9 @@
+C:\github\Funde_Net\Funde_5-4\Dennis\Finacial_KOSPI\Finacial_KOSPI\bin\Debug\Finacial_KOSPI.exe
+C:\github\Funde_Net\Funde_5-4\Dennis\Finacial_KOSPI\Finacial_KOSPI\bin\Debug\Finacial_KOSPI.pdb
+C:\github\Funde_Net\Funde_5-4\Dennis\Finacial_KOSPI\Finacial_KOSPI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\github\Funde_Net\Funde_5-4\Dennis\Finacial_KOSPI\Finacial_KOSPI\obj\x86\Debug\Finacial_KOSPI.fmMain.resources
+C:\github\Funde_Net\Funde_5-4\Dennis\Finacial_KOSPI\Finacial_KOSPI\obj\x86\Debug\Finacial_KOSPI.Properties.Resources.resources
+C:\github\Funde_Net\Funde_5-4\Dennis\Finacial_KOSPI\Finacial_KOSPI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\github\Funde_Net\Funde_5-4\Dennis\Finacial_KOSPI\Finacial_KOSPI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\github\Funde_Net\Funde_5-4\Dennis\Finacial_KOSPI\Finacial_KOSPI\obj\x86\Debug\Finacial_KOSPI.exe
+C:\github\Funde_Net\Funde_5-4\Dennis\Finacial_KOSPI\Finacial_KOSPI\obj\x86\Debug\Finacial_KOSPI.pdb
