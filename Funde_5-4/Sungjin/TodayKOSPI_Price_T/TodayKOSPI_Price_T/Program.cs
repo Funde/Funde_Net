@@ -18,4 +18,5 @@ namespace TodayKOSPI_Price_T
             Application.Run(new Form1());
         }
     }
+  
 }

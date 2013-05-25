@@ -7,3 +7,12 @@ C:\Users\성진\AppData\Local\Temporary Projects\TodayKOSPI_Price_T\bin\Debug\To
 C:\Users\성진\AppData\Local\Temporary Projects\TodayKOSPI_Price_T\bin\Debug\TodayKOSPI_Price_T.pdb
 C:\Users\성진\AppData\Local\Temporary Projects\TodayKOSPI_Price_T\obj\x86\Debug\TodayKOSPI_Price_T.exe
 C:\Users\성진\AppData\Local\Temporary Projects\TodayKOSPI_Price_T\obj\x86\Debug\TodayKOSPI_Price_T.pdb
+C:\Users\성진\Documents\GitHub\Funde_Net\Funde_5-4\Sungjin\TodayKOSPI_Price_T\TodayKOSPI_Price_T\obj\x86\Debug\TodayKOSPI_Price_T.exe
+C:\Users\성진\Documents\GitHub\Funde_Net\Funde_5-4\Sungjin\TodayKOSPI_Price_T\TodayKOSPI_Price_T\obj\x86\Debug\TodayKOSPI_Price_T.pdb
+C:\Users\성진\Documents\GitHub\Funde_Net\Funde_5-4\Sungjin\TodayKOSPI_Price_T\TodayKOSPI_Price_T\bin\Debug\TodayKOSPI_Price_T.exe
+C:\Users\성진\Documents\GitHub\Funde_Net\Funde_5-4\Sungjin\TodayKOSPI_Price_T\TodayKOSPI_Price_T\bin\Debug\TodayKOSPI_Price_T.pdb
+C:\Users\성진\Documents\GitHub\Funde_Net\Funde_5-4\Sungjin\TodayKOSPI_Price_T\TodayKOSPI_Price_T\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\성진\Documents\GitHub\Funde_Net\Funde_5-4\Sungjin\TodayKOSPI_Price_T\TodayKOSPI_Price_T\obj\x86\Debug\TodayKOSPI_Price_T.Properties.Resources.resources
+C:\Users\성진\Documents\GitHub\Funde_Net\Funde_5-4\Sungjin\TodayKOSPI_Price_T\TodayKOSPI_Price_T\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\성진\Documents\GitHub\Funde_Net\Funde_5-4\Sungjin\TodayKOSPI_Price_T\TodayKOSPI_Price_T\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\성진\Documents\GitHub\Funde_Net\Funde_5-4\Sungjin\TodayKOSPI_Price_T\TodayKOSPI_Price_T\obj\x86\Debug\TodayKOSPI_Price_T.Form1.resources
