@@ -1,0 +1,11 @@
+C:\github\Funde_Net\Funde_5-5\Dennis\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe
+C:\github\Funde_Net\Funde_5-5\Dennis\HtmlParser\HtmlParser\bin\Debug\HtmlParser.pdb
+C:\github\Funde_Net\Funde_5-5\Dennis\HtmlParser\HtmlParser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\github\Funde_Net\Funde_5-5\Dennis\HtmlParser\HtmlParser\obj\x86\Debug\HtmlParser.frmMain.resources
+C:\github\Funde_Net\Funde_5-5\Dennis\HtmlParser\HtmlParser\obj\x86\Debug\HtmlParser.Properties.Resources.resources
+C:\github\Funde_Net\Funde_5-5\Dennis\HtmlParser\HtmlParser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\github\Funde_Net\Funde_5-5\Dennis\HtmlParser\HtmlParser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\github\Funde_Net\Funde_5-5\Dennis\HtmlParser\HtmlParser\obj\x86\Debug\HtmlParser.exe
+C:\github\Funde_Net\Funde_5-5\Dennis\HtmlParser\HtmlParser\obj\x86\Debug\HtmlParser.pdb
+C:\github\Funde_Net\Funde_5-5\Dennis\HtmlParser\HtmlParser\bin\Debug\jSkin.dll
+C:\github\Funde_Net\Funde_5-5\Dennis\HtmlParser\HtmlParser\bin\Debug\jSkin.pdb
